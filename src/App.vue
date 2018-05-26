@@ -17,6 +17,7 @@ export default {
   * {
     padding: 0;
     margin: 0;
+    list-style-type: none;
   }
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;

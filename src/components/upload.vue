@@ -7,7 +7,7 @@
                  :auto-upload="false"
                  :on-error="handleOnError"
                  :multiple="true"
-      :http-request="uploading">
+                 :http-request="uploading">
         <i class="el-icon-plus" slot="trigger"></i>
         <!--<el-button slot="trigger" size="small" type="primary">选取文件</el-button>-->
         <!--<el-button size="small" type="primary">点击上传</el-button>-->
